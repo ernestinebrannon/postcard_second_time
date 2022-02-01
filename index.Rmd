@@ -24,7 +24,7 @@ Create a heading by using a `#` followed by a space then the Heading. Don't forg
 
 *Italics* can be created by surrounding the text with `*`s 
 
-**Bold** can be created by surroudning text with two `*`s
+**Bold** can be created by surrounding text with two `*`s
 
 ***You need to knit your changes before committing them to GitHub!***
 
